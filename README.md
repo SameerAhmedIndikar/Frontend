@@ -149,5 +149,5 @@ If you like this repo, don’t forget to ⭐ star it!
 
 ## 👨‍💻 Connect With Me  
 🔗 **GitHub:** [SameerAhmedIndikar](https://github.com/SameerAhmedIndikar)  
-🔗 **LinkedIn:** [Sameer Indikar](https://www.linkedin.com/in/sameer-indikar-5406422a2/)
+🔗 **LinkedIn:** [Sameer Ahmed Indikar](https://www.linkedin.com/in/sameer-ahmed-indikar-5406422a2)
 
